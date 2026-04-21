@@ -62,3 +62,4 @@ function HEX(byte1, byte2, byte3, byte4, byte5, byte6, byte7, byte8) {
     }
     return hex;
 }
+return decodeUplink(input);
